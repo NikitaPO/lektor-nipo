@@ -1,0 +1,5 @@
+[project]
+name = lektor-portfolio
+
+[servers.ghpages]
+target = ghpages+https://NikitaPO/lektor-nipo
